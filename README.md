@@ -73,10 +73,24 @@ I build scalable, efficient, and innovative software that bridges technology and
 ---
 
 ### 🧩 Featured Projects
-✅ **[BioLine Company Management System](https://github.com/msalem02/BioLineCompany)** – Full-stack Flask + MySQL business management system with analytics dashboard.  
-✅ **[Comparative Study of Image Classification](https://github.com/msalem02/Comparative-Study-of-Image-Classification)** – Evaluation of ML models with PCA/LDA and neural networks.  
-✅ **[Smoke Detection & IoT Fire Alarm System](https://github.com/msalem02/Smoke-Detection-and-Fire-Alarm-System)** – Cloud-edge IoT integration with real-time alerts.  
-✅ **[Optimization Strategies for Local Delivery](https://github.com/msalem02/Optimization-Strategies-for-Local-Package-Delivery-Operations)** – Genetic Algorithms & Simulated Annealing implementation.  
+
+✅ **[BioLine Company Management System](https://github.com/msalem02/BioLineCompany)**  
+A comprehensive full-stack **Flask + MySQL business management system** integrating modules for Employees, Sales, Products, Inventory, and Suppliers — complete with real-time analytics and BI dashboards.
+
+✅ **[Comparative Study of Image Classification](https://github.com/msalem02/Comparative-Study-of-Image-Classification)**  
+A full experimental analysis of **Decision Tree, Naïve Bayes, and Feedforward Neural Network** models with **PCA/LDA dimensionality reduction** — comparing performance and generalization on image datasets.
+
+✅ **[Transfer Learning with AlexNet & VGG16 on CIFAR-10](https://github.com/msalem02/Transfer-Learning-with-AlexNet-and-VGG16-on-CIFAR-10-Fine-Tuning-vs.-Feature-Extraction)**  
+An advanced deep-learning project exploring **fine-tuning vs. feature extraction** using **pre-trained CNN architectures** for optimized image classification on CIFAR-10.
+
+✅ **[Smoke Detection & IoT Fire Alarm System](https://github.com/msalem02/Smoke-Detection-and-Fire-Alarm-System)**  
+A multi-layer **IoT and cloud-edge system** for detecting fire, smoke, and CO₂ levels with real-time alerts, local alarms, and email notifications — built using **Python, Packet Tracer, and IoT simulators**.
+
+✅ **[Optimization Strategies for Local Package Delivery Operations](https://github.com/msalem02/Optimization-Strategies-for-Local-Package-Delivery-Operations)**  
+A route-optimization system using **Genetic Algorithms** and **Simulated Annealing** for efficient delivery path planning — inspired by the **Vehicle Routing Problem (VRP)** and implemented in **Python**.
+
+✅ **[Bin Packing Problem Solution Using MIPS Assembly](https://github.com/msalem02/Bin-Packing-Problem-Solution-Using-MIPS-Assembly)**  
+A low-level **assembly optimization algorithm** for solving the **Bin Packing Problem** using **MIPS architecture**, focusing on memory management, iteration control, and space utilization.
 
 ---
 
