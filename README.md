@@ -16,18 +16,20 @@ I build scalable, efficient, and innovative software that bridges technology and
 
 ---
 
-### 🔗 Connect with Me
+### 🤝 Connect With Me
+
 <p align="center">
-  <a href="https://linkedin.com/in/msalem02" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="msalem02" height="40" width="40" />
+  <a href="mailto:salemmohamad926@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="mailto:salemmohamad926@gmail.com" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="email" height="40" width="40" />
+  <a href="https://www.linkedin.com/in/msalem02" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/msalem02" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="40" width="40" />
+  <a href="https://github.com/msalem02" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+
 
 ---
 
