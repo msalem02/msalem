@@ -7,17 +7,7 @@ I build scalable, efficient, and innovative software that bridges technology and
 
 ---
 
-### 🏆 GitHub Achievements
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=msalem02&theme=gruvbox&margin-w=10&margin-h=10&no-frame=true" alt="GitHub trophies"/>
-  </a>
-</p>
-
----
-
 ### 🤝 Connect With Me
-
 <p align="center">
   <a href="mailto:salemmohamad926@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -29,7 +19,6 @@ I build scalable, efficient, and innovative software that bridges technology and
     <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
 
 ---
 
@@ -66,14 +55,6 @@ I build scalable, efficient, and innovative software that bridges technology and
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msalem02&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalem02&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ### 🧩 Featured Projects
 
 ✅ **[BioLine Company Management System](https://github.com/msalem02/BioLineCompany)**  
@@ -93,6 +74,23 @@ A route-optimization system using **Genetic Algorithms** and **Simulated Anneali
 
 ✅ **[Bin Packing Problem Solution Using MIPS Assembly](https://github.com/msalem02/Bin-Packing-Problem-Solution-Using-MIPS-Assembly)**  
 A low-level **assembly optimization algorithm** for solving the **Bin Packing Problem** using **MIPS architecture**, focusing on memory management, iteration control, and space utilization.
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=msalem02&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalem02&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=msalem02&theme=gruvbox&margin-w=10&margin-h=10&no-frame=true" alt="GitHub trophies"/>
+  </a>
+</p>
 
 ---
 
